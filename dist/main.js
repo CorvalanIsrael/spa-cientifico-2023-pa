@@ -1,1 +1,1 @@
-console.log("hola mundo");
+(()=>{"use strict";Home;window.addEventListener("load",(async()=>{const e=document.getElementById("header");document.getElementById("content"),e.innerHTML=await Header()}))})();
