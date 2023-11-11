@@ -1,4 +1,3 @@
-import router from "./src/routes";
+import router from './src/routes'
 
-window.addEventListener('load', router);
-
+window.addEventListener('load', router)
